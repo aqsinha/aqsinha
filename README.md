@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sinhaamit.sde@gmail.com**
 
-- ⚡ Fun fact **I am a above average chess player with a bullet rating of 1950 on lichess.**
+- ⚡ Fun fact: I am a above average chess player with a bullet rating of 1950 on lichess.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
