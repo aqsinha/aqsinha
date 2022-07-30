@@ -1,8 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-**aqsinha/aqsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+WELCOME TO MY GITHUB PROFILE !!
 
 - 🔭 I’m currently working on Excercise Tracker Application(MERN stack).
 - 🌱 I’m currently learning Material UI, Express.js and Tailwind CSS.
