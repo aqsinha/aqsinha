@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Sinha</h1>
 <h3 align="center">Graduate Student at Arizona State University. Former Senior Application Developer at Oracle India Pvt. Ltd.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsinha&label=Profile%20views&color=0e75b6&style=flat" alt="aqsinha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhaamitsde&label=Profile%20views&color=0e75b6&style=flat" alt="sinhaamitsde" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqsinha" alt="aqsinha" /></a> </p>
 
