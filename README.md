@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Sinha</h1>
-<h3 align="center">Graduate Student at Arizona State University. Former Senior Application Developer at Oracle India Pvt. Ltd.</h3>
+<h3 align="center">Senior Associate at JP Morgan Chase & Co. Former Computer Science Masters Student at Arizona State University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhaamitsde&label=Profile%20views&color=0e75b6&style=flat" alt="sinhaamitsde" /> </p>
 
